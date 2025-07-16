@@ -1,16 +1,8 @@
-
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3408A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+June+Skálletty;I'm+Fullstack+Developer;I+am+from+Florianópolis,+SC;I+study+analysis+and+systems+development+at+UniSenai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
 <div align="center">
   <a href="https://github.com/juneskalletty">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juneskalletty&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneskalletty&layout=compact&langs_count=6&theme=radical"/>
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juneskalletty&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
 <a href="https://www.instagram.com/juneskalletty/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
