@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="assets/cats.jpg" alt="Gatos" width="100%" />
+  <img src="assets/two-dog.jpg" alt="Brisa Maria" width="100%" />
 </div>
 
 <br/>
