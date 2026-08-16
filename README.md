@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="assets/two-dog.jpg" alt="Brisa Maria" width="100%" />
+  <img src="assets/dog.png" alt="Brisa Maria" width="50%"/>
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 
 <br/>
 
-> ## Hey there! I'm June 👋
+> ## Hey there! I'm June 
 
 <!-- Intro com a arte do cachorro no lugar do planeta -->
 <table>
@@ -21,21 +21,28 @@
 
 **Developer & Software Engineer**
 
-Sou apaixonada por criar aplicações web minimalistas, performáticas e por
-construir fluxos de trabalho automatizados e eficientes.
+Experience with high-impact, mission-critical systems. I work with incremental legacy migration, RESTful APIs, and integration between heterogeneous systems.
 
-Atualmente foco minha energia em desenvolvimento full-stack com **Java** e
-**Angular**, além de explorar **React** e desenvolvimento mobile. Meu playground
-técnico gira em torno de interfaces limpas, APIs bem estruturadas e código que
-se explica sozinho.
+<div align="center">
 
-Sempre em busca da próxima estrela para perseguir. ⭐
+<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
+</div>
 
   </td>
   <td width="38%" valign="middle" align="center">
-    <img src="assets/dog.png" alt="Cachorro perseguindo uma estrela" width="100%" />
+    <img src="assets/two-dog.jpg" alt="Cachorro perseguindo uma estrela" width="100%" />
   </td>
   </tr>
 </table>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,postman,docker,git,github,py,fastapi" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,postgres,tailwind,nodejs,ts,figma,vue" />
+</p>
 
 <br/>
