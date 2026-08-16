@@ -16,8 +16,8 @@
   <a href="mailto:juneskalletty@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
   </a>&nbsp;
-  <a href="https://github.com/juneskalletty" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  <a href="" target="_blank">
+    <img src="assets/hand-cross-finger-heart.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Portifólio" />
   </a>
 </div>
 
@@ -49,13 +49,4 @@ Sempre em busca da próxima estrela para perseguir. ⭐
   </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juneskalletty&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneskalletty&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas" />
-</div>
-
 <br/>
-
