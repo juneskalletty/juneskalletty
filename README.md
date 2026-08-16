@@ -25,7 +25,7 @@ Experience with high-impact, mission-critical systems. I work with incremental l
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+<img src="https://streak-stats.demolab.com?user=juneskalletty&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
 
 </div>
 
