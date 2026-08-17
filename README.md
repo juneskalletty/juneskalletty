@@ -31,7 +31,7 @@ Experience with high-impact, mission-critical systems. I work with incremental l
 
   </td>
   <td width="38%" valign="middle" align="center">
-    <img src="assets/two-dog.jpg" alt="Cachorro perseguindo uma estrela" width="100%" />
+    <img src="assets/two-dog.jpg" alt="Brisa Maria" width="100%" />
   </td>
   </tr>
 </table>
