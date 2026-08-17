@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juneskalletty/juneskalletty/main/assets/dog.png" alt="Brisa Maria" width="50%"/>
+  <img src="https://i.ibb.co/ymrLQsWC/dog.png" alt="Brisa Maria" width="50%"/>
 </div>
 
 <br/>
@@ -31,7 +31,7 @@ Experience with high-impact, mission-critical systems. I work with incremental l
 
   </td>
   <td width="38%" valign="middle" align="center">
-    <img src="https://raw.githubusercontent.com/juneskalletty/juneskalletty/main/assets/two-dog.jpg" alt="Cachorro perseguindo uma estrela" width="100%" />
+    <img src="https://i.ibb.co/ccMpQc7k/two-dog.jpg" alt="Cachorro perseguindo uma estrela" width="100%" />
   </td>
   </tr>
 </table>
